@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/gregor/Downloads/National Instruments/NI Digital Electronics FPGA Board/blink00/tb_top_isim_beh.exe" -prj "C:/Users/gregor/Downloads/National Instruments/NI Digital Electronics FPGA Board/blink00/tb_top_beh.prj" "work.tb_top" "work.glbl" 

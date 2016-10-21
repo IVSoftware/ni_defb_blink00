@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\gregor\Downloads\National Instruments\NI Digital Electronics FPGA Board\blink00\top.ncd
+OUTFILE=C:\Users\gregor\Downloads\National Instruments\NI Digital Electronics FPGA Board\blink00\top.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5ft256
+WORKINGDIR=C:\Users\gregor\Downloads\National Instruments\NI Digital Electronics FPGA Board\blink00
+LICENSE=WebPack
+USER_INFO=210746580_1777492237_0_739

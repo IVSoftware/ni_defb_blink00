@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Users\gregor\Downloads\National Instruments\NI Digital Electronics FPGA Board\blink00\impact.xsl
+OUTFILE=C:\Users\gregor\Downloads\National Instruments\NI Digital Electronics FPGA Board\blink00\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=C:\Users\gregor\Downloads\National Instruments\NI Digital Electronics FPGA Board\blink00
+LICENSE=iMPACT
+USER_INFO=iMPACT

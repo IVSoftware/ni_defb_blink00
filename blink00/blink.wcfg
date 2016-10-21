@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/gregor/Downloads/National Instruments/NI Digital Electronics FPGA Board/blink00/tb_top_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/tb_top/uut/clk_visible_g" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_visible_g</obj_property>
+      <obj_property name="ObjectShortName">clk_visible_g</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/LED0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">LED0</obj_property>
+      <obj_property name="ObjectShortName">LED0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/LED1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">LED1</obj_property>
+      <obj_property name="ObjectShortName">LED1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/LED2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">LED2</obj_property>
+      <obj_property name="ObjectShortName">LED2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/LED3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">LED3</obj_property>
+      <obj_property name="ObjectShortName">LED3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/LED4" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">LED4</obj_property>
+      <obj_property name="ObjectShortName">LED4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/LED5" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">LED5</obj_property>
+      <obj_property name="ObjectShortName">LED5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/LED6" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">LED6</obj_property>
+      <obj_property name="ObjectShortName">LED6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/LED7" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">LED7</obj_property>
+      <obj_property name="ObjectShortName">LED7</obj_property>
+   </wvobject>
+</wave_config>
